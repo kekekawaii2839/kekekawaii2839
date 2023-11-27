@@ -10,7 +10,7 @@
 
 [![kekekawaii2839](https://github-readme-stats.vercel.app/api?username=kekekawaii2839&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kekekawaii2839&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kekekawaii2839&theme=transparent&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kekekawaii2839/kekekawaii2839** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
