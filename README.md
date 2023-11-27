@@ -1,4 +1,14 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+- 🔭 I’m currently working on NLP, Long-context Memory Mechanism for LLM
+- 🌱 I’m currently learning 🎸 and coil gun
+- 📫 How to reach me: lihaolun22@mails.tsinghua.edu.cn
+<!-- - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
+
+[![kekekawaii2839](https://github-readme-stats.vercel.app/api?username=kekekawaii2839)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kekekawaii2839/kekekawaii2839** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
