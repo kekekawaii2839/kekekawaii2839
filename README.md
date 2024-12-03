@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
-- 🔭 I’m currently working on NLP, Long-context Memory Mechanism for LLM
-- 🌱 I’m currently learning 🎸 and coil gun
-- 📫 How to reach me: lihaolun22@mails.tsinghua.edu.cn
+- 🔭 I’m currently working on LLM and LLM-based Agents
+- 🌱 I’m currently learning 🎸
+- 📫 How to reach me: lihaolun22 [at] mails [dot] tsinghua [dot] edu [dot] cn
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
