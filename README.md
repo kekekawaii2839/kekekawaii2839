@@ -1,19 +1,21 @@
-<!-- ### Hi there 👋 -->
+### Hi there 👋 I'm Haolun Li
+I'm an incoming PhD Student at University of Illinois Urbana-Champaign, working with Prof. Jiaxuan You. Before joining UIUC, I received my B.S. in Computer Science and B.S. in Economics from Tsinghua University in 2026, where I was fortunate to have Prof. Zhiyuan Liu as my advisor.
 - 🔭 I’m currently working on LLM and LLM-based Agents
-- 🌱 I’m currently learning 🎸
-- 📫 How to reach me: lihaolun22 [at] mails [dot] tsinghua [dot] edu [dot] cn
+<!-- - 🌱 I’m currently learning 🎸 -->
+<!-- - 📫 How to reach me: lihaolun22 [at] mails [dot] tsinghua [dot] edu [dot] cn -->
+- 📫 How to reach me: haolunl3 [at] illinois [dot] edu
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kekekawaii2839&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kekekawaii2839&theme=transparent&size_weight=0.5&count_weight=0.5&card_width=500" />
-</a>
+</a> -->
 
 <!--
 **kekekawaii2839/kekekawaii2839** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
