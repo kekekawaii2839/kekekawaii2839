@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Haolun Li
-I'm an incoming PhD Student at University of Illinois Urbana-Champaign, working with Prof. Jiaxuan You. Before joining UIUC, I received my B.S. in Computer Science and B.S. in Economics from Tsinghua University in 2026, where I was fortunate to have Prof. Zhiyuan Liu as my advisor.
-- 🔭 I’m currently working on LLM and LLM-based Agents
+I'm a 1st-year PhD Student at the University of Illinois Urbana-Champaign, working with Prof. Jiaxuan You. Before joining UIUC, I received my B.S. in Computer Science and B.S. in Economics from Tsinghua University in 2026, where I was fortunate to have Prof. Zhiyuan Liu as my advisor.
+- 🔭 I’m currently working on LLMs and LLM-based Agents
 <!-- - 🌱 I’m currently learning 🎸 -->
 <!-- - 📫 How to reach me: lihaolun22 [at] mails [dot] tsinghua [dot] edu [dot] cn -->
 - 📫 How to reach me: haolunl3 [at] illinois [dot] edu
